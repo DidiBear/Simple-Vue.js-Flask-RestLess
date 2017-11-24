@@ -1,10 +1,11 @@
 # Vue.js with Flask-RestLess
 
-A really simple implementation of Backend-Frontend architecture with Flask and Vue.js
+A really simple example of Backend-Frontend architecture with Flask and Vue.js. 
 
-Backend is made with Flask, SQLAlchemy and Flask-RestLess
+This show the use of REST APIs, especialy the Hypertext Application Language (HAL) architecture and how to manage links.
 
-Frontend is made with Vue.js (not compiled with node.js) and Bootstrap. It request the backend using Axios.
+* Backend : Flask, SQLAlchemy and Flask-RestLess
+* Frontend : Vue.js (not compiled with node.js) and Bootstrap. Ajax request to backend are made using Axios.
 
 ## Getting Started
 
