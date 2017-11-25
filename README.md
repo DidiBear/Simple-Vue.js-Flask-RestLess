@@ -11,7 +11,7 @@ This show the use of REST APIs, especialy the Hypertext Application Language (HA
 
 Install dependencies:
 ```
-$ pip install flask flask-sqlalchemy flask-cors flask-restless
+$ pip install -r requirements.txt
 ```
 
 Launch the backend:

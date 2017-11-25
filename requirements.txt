@@ -1,0 +1,4 @@
+Flask==0.12.2
+Flask-Cors==3.0.3
+Flask-Restless==1.0.0b1
+Flask-SQLAlchemy==2.3.2
